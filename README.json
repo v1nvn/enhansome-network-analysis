@@ -1430,7 +1430,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-06T14:39:05Z",
+            "last_commit": "2026-02-08T04:13:45Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2406
@@ -1474,7 +1474,7 @@
             "last_commit": "2026-02-01T03:32:57Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
-            "stars": 1574
+            "stars": 1575
           }
         },
         {
@@ -2388,10 +2388,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:19:06.267Z",
+    "last_updated": "2026-02-08T04:26:37.113Z",
     "original_repository": "briatte/awesome-network-analysis",
     "source_repository": "v1nvn/enhansome-network-analysis",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Network Analysis with stars"
   }
 }

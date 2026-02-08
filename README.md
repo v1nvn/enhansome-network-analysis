@@ -1,8 +1,8 @@
-# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,650 | 🐛 67 | 📅 2026-01-28 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481) with stars
+# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,876 | 🐛 68 | 📅 2026-01-28 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481) with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 435,650 | 🐛 67 | 📅 2026-01-28 of resources to construct, analyze and visualize network data.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 435,876 | 🐛 68 | 📅 2026-01-28 of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 27,487 | 🐛 51 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 13,387 | 🐛 18 | 🌐 Python | 📅 2026-01-23 and others. Started in 2016, and irregularly updated since then.
+Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 27,494 | 🐛 51 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 13,390 | 🐛 18 | 🌐 Python | 📅 2026-01-23 and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -555,7 +555,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Algorithms
 
 > Network placement and community detection algorithms that do not fit in any of the next subsections.\
-> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 24,678 | 🐛 0 | 📅 2026-01-11 and [Awesome Algorithm Visualization](https://github.com/enjalot/algovis) ⭐ 1,727 | 🐛 7 | 📅 2022-12-05 lists for more algorithmic awesomess.
+> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 24,680 | 🐛 0 | 📅 2026-01-11 and [Awesome Algorithm Visualization](https://github.com/enjalot/algovis) ⭐ 1,728 | 🐛 7 | 📅 2022-12-05 lists for more algorithmic awesomess.
 
 * [Linkcomm - Link Communities in Complex Networks](https://github.com/bagrow/linkcomm) ⭐ 99 | 🐛 11 | 🌐 Python | 📅 2021-02-05 - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 * [weighted-modularity-LPAwbPLUS](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) ⭐ 31 | 🐛 3 | 🌐 PostScript | 📅 2016-04-27 - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
@@ -568,7 +568,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### C / C++
 
-> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived and [Awesome C / C++](https://github.com/fffaraz/awesome-cpp) ⭐ 69,584 | 🐛 420 | 📅 2026-01-27 lists.
+> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived and [Awesome C / C++](https://github.com/fffaraz/awesome-cpp) ⭐ 69,600 | 🐛 420 | 📅 2026-01-27 lists.
 
 * [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
 * [BGL - Boost Graph Library](https://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
@@ -649,12 +649,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.\
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2012-03-08).\
-> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 281,773 | 🐛 15 | 🌐 Python | 📅 2026-02-02 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,223 | 🐛 7 | 📅 2025-07-17 lists.
+> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 281,890 | 🐛 15 | 🌐 Python | 📅 2026-02-07 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,222 | 🐛 7 | 📅 2025-07-17 lists.
 
-* [PyGraphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,406 | 🐛 252 | 🌐 Python | 📅 2026-02-06 - Python library to extract, transform, and visually explore big graphs.
+* [PyGraphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,406 | 🐛 251 | 🌐 Python | 📅 2026-02-08 - Python library to extract, transform, and visually explore big graphs.
 * [karateclub](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,276 | 🐛 12 | 🌐 Python | 📅 2024-07-17 - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 * [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) ⭐ 2,120 | 🐛 131 | 🌐 Cuda | 📅 2026-02-07 - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
-* [rustworkx](https://github.com/Qiskit/rustworkx) ⭐ 1,574 | 🐛 128 | 🌐 Rust | 📅 2026-02-01 - A high performance Python graph library implemented in Rust.
+* [rustworkx](https://github.com/Qiskit/rustworkx) ⭐ 1,575 | 🐛 127 | 🌐 Rust | 📅 2026-02-01 - A high performance Python graph library implemented in Rust.
 * [graspologic](https://github.com/microsoft/graspologic) ⭐ 967 | 🐛 72 | 🌐 Python | 📅 2025-11-25 - Python package for statistical algorithms, models, and visualization for single and multiple networks.
   * [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
 * [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) ⭐ 713 | 🐛 7 | 🌐 Python | 📅 2025-12-20 - Python package for sampling from graph structured data with a scikit-learn like API.
