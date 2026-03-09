@@ -1,8 +1,8 @@
-# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,491 | 🐛 73 | 📅 2026-03-04 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481) with stars
+# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,829 | 🐛 75 | 📅 2026-03-04 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481) with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 443,491 | 🐛 73 | 📅 2026-03-04 of resources to construct, analyze and visualize network data.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 443,829 | 🐛 75 | 📅 2026-03-04 of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 27,667 | 🐛 55 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 13,532 | 🐛 19 | 🌐 Python | 📅 2026-03-02 and others. Started in 2016, and irregularly updated since then.
+Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 27,672 | 🐛 55 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 13,537 | 🐛 19 | 🌐 Python | 📅 2026-03-02 and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -83,7 +83,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 * *[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)*, by Michele Coscia (2021).
 * *[Encyclopedia of Social Networks](http://sk.sagepub.com/reference/socialnetworks)*, edited by George A. Barnett - Covers all sorts of network-related themes (many of them not formal) as well as social network analysis (2011).
 * *[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)*, edited by Reda Alhajj and Jon Rokne (2014).
-* *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) ⭐ 423 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-11-03 (2020).
+* *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) ⭐ 424 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-11-03 (2020).
 * *[Network Science](http://networksciencebook.com)*, by Albert-László Barabási - Full book online (2016).
 * *[Network Science](http://www.nap.edu/catalog/11516/network-science)*, by the U.S. National Research Council - Full book online (2005).
 * *[Network Science: Theory and Practice](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118211014.html)*, by Ted G. Lewis (2011).
@@ -219,7 +219,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Datasets
 
-* [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets) ⭐ 6,386 | 🐛 518 | 🌐 Java | 📅 2026-03-07.
+* [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets) ⭐ 6,388 | 🐛 517 | 🌐 Java | 📅 2026-03-08.
 * [Hetionet: an integrative network of disease](https://github.com/hetio/hetionet) ⭐ 344 | 🐛 14 | 🌐 HTML | 📅 2023-04-03 - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 * [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet) ⭐ 17 | 🐛 23 | 📅 2017-04-01 - Legislative cosponsorship networks, in R format.
 * [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package](https://github.com/mangal-wg/pymangal) ⚠️ Archived, [R package](https://github.com/mangal-wg/rmangal) ⭐ 16 | 🐛 2 | 🌐 R | 📅 2026-01-22).
@@ -555,7 +555,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Algorithms
 
 > Network placement and community detection algorithms that do not fit in any of the next subsections.\
-> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 24,810 | 🐛 0 | 📅 2026-01-11 and [Awesome Algorithm Visualization](https://github.com/enjalot/algovis) ⭐ 1,731 | 🐛 7 | 📅 2022-12-05 lists for more algorithmic awesomess.
+> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 24,812 | 🐛 0 | 📅 2026-01-11 and [Awesome Algorithm Visualization](https://github.com/enjalot/algovis) ⭐ 1,732 | 🐛 7 | 📅 2022-12-05 lists for more algorithmic awesomess.
 
 * [Linkcomm - Link Communities in Complex Networks](https://github.com/bagrow/linkcomm) ⭐ 99 | 🐛 11 | 🌐 Python | 📅 2021-02-05 - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 * [weighted-modularity-LPAwbPLUS](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) ⭐ 31 | 🐛 3 | 🌐 PostScript | 📅 2016-04-27 - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
@@ -568,7 +568,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### C / C++
 
-> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived and [Awesome C / C++](https://github.com/fffaraz/awesome-cpp) ⭐ 70,079 | 🐛 306 | 📅 2026-03-06 lists.
+> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived and [Awesome C / C++](https://github.com/fffaraz/awesome-cpp) ⭐ 70,095 | 🐛 306 | 📅 2026-03-06 lists.
 
 * [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
 * [BGL - Boost Graph Library](https://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
@@ -578,7 +578,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 * [networks.tb](https://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
 * [OGDF - Open Graph Drawing Framework](https://ogdf.uos.de/) - Self-contained C++ class library for diagram, network and tree layouts.
 * [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
-* [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) ⭐ 2,134 | 🐛 138 | 🌐 Cuda | 📅 2026-03-06 - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
+* [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) ⭐ 2,135 | 🐛 138 | 🌐 Cuda | 📅 2026-03-06 - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 * [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL.
 * [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](https://arxiv.org/abs/physics/0512106).
 
@@ -590,7 +590,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### JavaScript
 
-> For more awesome JavaScript libraries, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 34,922 | 🐛 35 | 📅 2026-01-05 list.
+> For more awesome JavaScript libraries, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 34,923 | 🐛 35 | 📅 2026-01-05 list.
 
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) ⭐ 3,861 | 🐛 115 | 🌐 JavaScript | 📅 2026-03-06 - Graph drawing library ([ForceAtlas2 plugin](https://github.com/graphcommons/viva.forceatlas2) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2015-07-24).
 * [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
@@ -622,7 +622,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 * [BayesNets.jl](https://github.com/sisl/BayesNets.jl) ⭐ 229 | 🐛 17 | 🌐 Julia | 📅 2025-12-27 - Package to work with Bayesian networks.
   * [Smile.jl](https://github.com/sisl/Smile.jl) ⭐ 2 | 🐛 0 | 🌐 Julia | 📅 2016-09-22 - Julia wrapper for the [Smile C++ library](http://www.bayesfusion.com/smile-engine), which covers Bayesian networks and influence diagrams.
 * [Graphs.jl](https://github.com/JuliaLang/Graphs.jl) ⚠️ Archived - Package to manipulate graph objects in Julia.
-  * [MetaGraphs](https://github.com/JuliaGraphs/MetaGraphs.jl) ⭐ 70 | 🐛 27 | 🌐 Julia | 📅 2026-01-29 - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
+  * [MetaGraphs](https://github.com/JuliaGraphs/MetaGraphs.jl) ⭐ 71 | 🐛 27 | 🌐 Julia | 📅 2026-01-29 - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
   * [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
 * [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) ⭐ 171 | 🐛 5 | 🌐 Julia | 📅 2026-02-17 - Package to manipulate, analyze and visualize phylogenetic networks.
 * [MatrixNetworks.jl](https://github.com/nassarhuda/MatrixNetworks.jl) ⭐ 110 | 🐛 17 | 🌐 Julia | 📅 2025-08-28 - A method to handle graph/matrix/network structures.
@@ -649,11 +649,11 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.\
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2012-03-08).\
-> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 286,094 | 🐛 20 | 🌐 Python | 📅 2026-03-04 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,238 | 🐛 8 | 📅 2025-07-17 lists.
+> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 286,257 | 🐛 19 | 🌐 Python | 📅 2026-03-04 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,237 | 🐛 8 | 📅 2025-07-17 lists.
 
-* [PyGraphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,422 | 🐛 249 | 🌐 Python | 📅 2026-03-08 - Python library to extract, transform, and visually explore big graphs.
+* [PyGraphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,421 | 🐛 250 | 🌐 Python | 📅 2026-03-09 - Python library to extract, transform, and visually explore big graphs.
 * [karateclub](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,275 | 🐛 12 | 🌐 Python | 📅 2024-07-17 - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
-* [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) ⭐ 2,134 | 🐛 138 | 🌐 Cuda | 📅 2026-03-06 - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
+* [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) ⭐ 2,135 | 🐛 138 | 🌐 Cuda | 📅 2026-03-06 - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 * [rustworkx](https://github.com/Qiskit/rustworkx) ⭐ 1,604 | 🐛 132 | 🌐 Rust | 📅 2026-03-03 - A high performance Python graph library implemented in Rust.
 * [graspologic](https://github.com/microsoft/graspologic) ⭐ 974 | 🐛 72 | 🌐 Python | 📅 2025-11-25 - Python package for statistical algorithms, models, and visualization for single and multiple networks.
   * [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
@@ -688,7 +688,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### R
 
-> For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) ⭐ 6,421 | 🐛 20 | 🌐 R | 📅 2025-09-18 and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) ⭐ 271 | 🐛 3 | 🌐 R | 📅 2017-11-02 lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
+> For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) ⭐ 6,421 | 🐛 21 | 🌐 R | 📅 2025-09-18 and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) ⭐ 271 | 🐛 3 | 🌐 R | 📅 2017-11-02 lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,734 | 🐛 174 | 🌐 R | 📅 2025-11-09 - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
