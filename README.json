@@ -153,7 +153,7 @@
             "last_commit": "2026-04-01T20:21:19Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6424
+            "stars": 6426
           }
         },
         {
@@ -967,7 +967,7 @@
             "last_commit": "2026-03-06T07:34:34Z",
             "owner": "anvaka",
             "repo": "VivaGraphJS",
-            "stars": 3861
+            "stars": 3862
           }
         },
         {
@@ -1256,7 +1256,7 @@
             "last_commit": "2025-12-23T09:21:17Z",
             "owner": "GiulioRossetti",
             "repo": "cdlib",
-            "stars": 422
+            "stars": 423
           }
         },
         {
@@ -1430,7 +1430,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-02T03:56:57Z",
+            "last_commit": "2026-04-03T04:08:59Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2468
@@ -1458,7 +1458,7 @@
           "repo_info": {
             "archived": false,
             "language": "Cuda",
-            "last_commit": "2026-04-02T03:46:45Z",
+            "last_commit": "2026-04-03T03:47:27Z",
             "owner": "rapidsai",
             "repo": "cugraph",
             "stars": 2157
@@ -1474,7 +1474,7 @@
             "last_commit": "2026-03-31T02:15:05Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
-            "stars": 1622
+            "stars": 1624
           }
         },
         {
@@ -2280,7 +2280,7 @@
             "last_commit": "2025-12-20T17:06:00Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2435
+            "stars": 2436
           }
         },
         {
@@ -2388,7 +2388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:21:53.719Z",
+    "last_updated": "2026-04-03T04:22:15.770Z",
     "original_repository": "briatte/awesome-network-analysis",
     "source_repository": "v1nvn/enhansome-network-analysis",
     "source_repository_description": null,
