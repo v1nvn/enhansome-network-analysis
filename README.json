@@ -155,7 +155,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-06T17:34:20Z",
+            "last_commit": "2026-05-09T17:07:26Z",
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6488
@@ -792,7 +792,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-24T19:00:32Z",
+            "last_commit": "2026-05-09T07:50:31Z",
             "owner": "gephi",
             "repo": "graphstore",
             "stars": 85
@@ -933,7 +933,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-22T20:27:57Z",
+            "last_commit": "2026-05-09T11:17:43Z",
             "owner": "public-accountability",
             "repo": "oligrapher",
             "stars": 109
@@ -1224,7 +1224,7 @@
             "last_commit": "2026-03-30T22:24:36Z",
             "owner": "JuliaPhylo",
             "repo": "PhyloNetworks.jl",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -1274,7 +1274,7 @@
             "last_commit": "2026-04-24T07:42:35Z",
             "owner": "CHSZLab",
             "repo": "CHSZLabLib",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2025-11-25T18:20:39Z",
             "owner": "graspologic-org",
             "repo": "graspologic",
-            "stars": 996
+            "stars": 997
           }
         },
         {
@@ -1339,7 +1339,7 @@
             "last_commit": "2024-07-17T19:00:35Z",
             "owner": "benedekrozemberczki",
             "repo": "karateclub",
-            "stars": 2280
+            "stars": 2281
           }
         },
         {
@@ -1430,7 +1430,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2024-07-14T13:17:47Z",
+            "last_commit": "2026-05-09T19:24:44Z",
             "owner": "rraadd88",
             "repo": "parag",
             "stars": 3
@@ -1448,10 +1448,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T05:18:00Z",
+            "last_commit": "2026-05-10T00:32:18Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
-            "stars": 2479
+            "stars": 2480
           }
         },
         {
@@ -1476,10 +1476,10 @@
           "repo_info": {
             "archived": false,
             "language": "Cuda",
-            "last_commit": "2026-05-08T22:03:24Z",
+            "last_commit": "2026-05-09T19:26:55Z",
             "owner": "rapidsai",
             "repo": "cugraph",
-            "stars": 2169
+            "stars": 2170
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2026-05-09T03:31:56Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
-            "stars": 1661
+            "stars": 1664
           }
         },
         {
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:19:58.710Z",
+    "last_updated": "2026-05-10T05:30:17.434Z",
     "original_repository": "briatte/awesome-network-analysis",
     "source_repository": "v1nvn/enhansome-network-analysis",
     "source_repository_description": null,
