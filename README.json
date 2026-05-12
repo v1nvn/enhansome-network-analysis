@@ -158,7 +158,7 @@
             "last_commit": "2026-05-09T17:07:26Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6490
+            "stars": 6492
           }
         },
         {
@@ -1211,7 +1211,7 @@
             "last_commit": "2017-05-23T03:25:59Z",
             "owner": "abhijithanilkumar",
             "repo": "NetworkViz.jl",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -1224,7 +1224,7 @@
             "last_commit": "2026-03-30T22:24:36Z",
             "owner": "JuliaPhylo",
             "repo": "PhyloNetworks.jl",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -1261,7 +1261,7 @@
             "last_commit": "2025-12-23T09:21:17Z",
             "owner": "GiulioRossetti",
             "repo": "cdlib",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2025-11-25T18:20:39Z",
             "owner": "graspologic-org",
             "repo": "graspologic",
-            "stars": 997
+            "stars": 998
           }
         },
         {
@@ -1448,7 +1448,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T05:48:44Z",
+            "last_commit": "2026-05-11T08:04:14Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2483
@@ -1476,7 +1476,7 @@
           "repo_info": {
             "archived": false,
             "language": "Cuda",
-            "last_commit": "2026-05-11T03:47:21Z",
+            "last_commit": "2026-05-12T05:19:44Z",
             "owner": "rapidsai",
             "repo": "cugraph",
             "stars": 2170
@@ -1489,10 +1489,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-09T03:31:56Z",
+            "last_commit": "2026-05-11T17:31:04Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
-            "stars": 1668
+            "stars": 1670
           }
         },
         {
@@ -2219,7 +2219,7 @@
                 "last_commit": "2026-03-22T20:25:36Z",
                 "owner": "egeerardyn",
                 "repo": "awesome-LaTeX",
-                "stars": 1622
+                "stars": 1623
               }
             },
             {
@@ -2251,7 +2251,7 @@
             "last_commit": "2026-03-22T20:25:36Z",
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1622
+            "stars": 1623
           }
         },
         {
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:51:24.761Z",
+    "last_updated": "2026-05-12T05:32:00.372Z",
     "original_repository": "briatte/awesome-network-analysis",
     "source_repository": "v1nvn/enhansome-network-analysis",
     "source_repository_description": null,
