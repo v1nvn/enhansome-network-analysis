@@ -839,7 +839,7 @@
                 "last_commit": "2023-12-30T16:50:14Z",
                 "owner": "d3",
                 "repo": "d3-force",
-                "stars": 1966
+                "stars": 1967
               }
             },
             {
@@ -864,7 +864,7 @@
             "last_commit": "2023-12-30T16:50:14Z",
             "owner": "d3",
             "repo": "d3-force",
-            "stars": 1966
+            "stars": 1967
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2026-05-03T23:27:50Z",
             "owner": "gephi",
             "repo": "gephi-lite",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2025-08-09T18:56:08Z",
             "owner": "plotly",
             "repo": "dash-cytoscape",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2025-11-25T18:20:39Z",
             "owner": "graspologic-org",
             "repo": "graspologic",
-            "stars": 998
+            "stars": 999
           }
         },
         {
@@ -1476,10 +1476,10 @@
           "repo_info": {
             "archived": false,
             "language": "Cuda",
-            "last_commit": "2026-05-12T05:19:44Z",
+            "last_commit": "2026-05-13T05:05:34Z",
             "owner": "rapidsai",
             "repo": "cugraph",
-            "stars": 2170
+            "stars": 2171
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2026-05-11T17:31:04Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
-            "stars": 1670
+            "stars": 1674
           }
         },
         {
@@ -2219,7 +2219,7 @@
                 "last_commit": "2026-03-22T20:25:36Z",
                 "owner": "egeerardyn",
                 "repo": "awesome-LaTeX",
-                "stars": 1623
+                "stars": 1624
               }
             },
             {
@@ -2251,7 +2251,7 @@
             "last_commit": "2026-03-22T20:25:36Z",
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1623
+            "stars": 1624
           }
         },
         {
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:32:00.372Z",
+    "last_updated": "2026-05-13T05:41:30.222Z",
     "original_repository": "briatte/awesome-network-analysis",
     "source_repository": "v1nvn/enhansome-network-analysis",
     "source_repository_description": null,
