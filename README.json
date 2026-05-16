@@ -839,7 +839,7 @@
                 "last_commit": "2023-12-30T16:50:14Z",
                 "owner": "d3",
                 "repo": "d3-force",
-                "stars": 1968
+                "stars": 1969
               }
             },
             {
@@ -864,7 +864,7 @@
             "last_commit": "2023-12-30T16:50:14Z",
             "owner": "d3",
             "repo": "d3-force",
-            "stars": 1968
+            "stars": 1969
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2026-05-03T23:27:50Z",
             "owner": "gephi",
             "repo": "gephi-lite",
-            "stars": 328
+            "stars": 329
           }
         },
         {
@@ -1448,10 +1448,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T02:52:03Z",
+            "last_commit": "2026-05-16T01:13:30Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
-            "stars": 2484
+            "stars": 2485
           }
         },
         {
@@ -1476,10 +1476,10 @@
           "repo_info": {
             "archived": false,
             "language": "Cuda",
-            "last_commit": "2026-05-15T02:14:10Z",
+            "last_commit": "2026-05-15T22:29:19Z",
             "owner": "rapidsai",
             "repo": "cugraph",
-            "stars": 2173
+            "stars": 2174
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2026-05-11T17:31:04Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
-            "stars": 1676
+            "stars": 1677
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "last_commit": "2026-04-27T20:44:12Z",
             "owner": "rich-iannone",
             "repo": "DiagrammeR",
-            "stars": 1735
+            "stars": 1736
           }
         },
         {
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:47:07.940Z",
+    "last_updated": "2026-05-16T05:20:08.132Z",
     "original_repository": "briatte/awesome-network-analysis",
     "source_repository": "v1nvn/enhansome-network-analysis",
     "source_repository_description": null,
