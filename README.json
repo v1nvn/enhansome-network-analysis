@@ -882,7 +882,7 @@
             "last_commit": "2026-05-03T23:27:50Z",
             "owner": "gephi",
             "repo": "gephi-lite",
-            "stars": 329
+            "stars": 330
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2025-11-25T18:20:39Z",
             "owner": "graspologic-org",
             "repo": "graspologic",
-            "stars": 1000
+            "stars": 1001
           }
         },
         {
@@ -1448,7 +1448,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T01:13:30Z",
+            "last_commit": "2026-05-17T04:11:00Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2485
@@ -1479,7 +1479,7 @@
             "last_commit": "2026-05-15T22:29:19Z",
             "owner": "rapidsai",
             "repo": "cugraph",
-            "stars": 2174
+            "stars": 2175
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2026-05-11T17:31:04Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
-            "stars": 1677
+            "stars": 1678
           }
         },
         {
@@ -2396,7 +2396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:20:08.132Z",
+    "last_updated": "2026-05-17T05:41:26.034Z",
     "original_repository": "briatte/awesome-network-analysis",
     "source_repository": "v1nvn/enhansome-network-analysis",
     "source_repository_description": null,
